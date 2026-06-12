@@ -1,4 +1,4 @@
-# 🧠 Face Landmark Detection System
+#  Face Landmark Detection System
 
 ## 📌 Overview
 
@@ -71,8 +71,6 @@ Face-Landmark-Detection-System/
 │
 ├── images/
 │   └── app_icon.png
-│
-├── screenshots/
 │   ├── home_page.png
 │   ├── detection_result.png
 │   └── detection_summary.png
