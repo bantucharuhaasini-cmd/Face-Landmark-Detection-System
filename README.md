@@ -18,7 +18,7 @@ The application uses OpenCV for face detection and MediaPipe Face Mesh for facia
 The application is deployed using Streamlit Community Cloud.
 
 🔗 **Live Application:**
-https://your-streamlit-app-link.streamlit.app
+
 
 
 
