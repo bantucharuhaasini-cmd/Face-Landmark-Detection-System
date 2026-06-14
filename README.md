@@ -1,4 +1,4 @@
-#  Face Landmark Detection System
+#  Frontal Face Landmark Detection System
 
 ## 📌 Overview
 
@@ -10,15 +10,6 @@ The Face Landmark Detection System is a Computer Vision application that detects
 * 👄 Mouth
 
 The application uses OpenCV for face detection and MediaPipe Face Mesh for facial landmark localization. A bounding box is drawn around each detected face, and key landmarks are highlighted on the image.
-
----
-
-## 🌐 Live Demo
-
-The application is deployed using Streamlit Community Cloud.
-
-🔗 **Live Application:**
-
 
 ---
 
